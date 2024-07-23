@@ -1,4 +1,4 @@
 # Project
 My First Git Repository
 <br>
-Author - Rishu Raj
+Author - Rishu Raj(Niet college)
